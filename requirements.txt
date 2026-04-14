@@ -1,1 +1,2 @@
 fastcoref
+spacy-entity-linker
