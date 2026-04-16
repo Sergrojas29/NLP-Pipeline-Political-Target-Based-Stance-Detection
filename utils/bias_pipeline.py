@@ -7,8 +7,11 @@ import json
 
 class BiasPipeline:
     def __init__(self) -> None:
+        # spaCy Entity Linking
         self.NER_nlp = spacy.load("en_core_web_trf")
         self.NER_nlp.add_pipe("entityLinker", last=True)
+        
+        # Coreference fastcoref
         self.Coref_model = FCoref(device='cuda:0')
     
     @staticmethod
@@ -20,12 +23,12 @@ class BiasPipeline:
         #Export from nested list to a single list of sentences
         for paragraph in data["body-paragraphs"]:
             if len(paragraph) == 1:
-                text.extend(paragraph[0])
+                text.extend(paragraph[0] + " ")
             else:
                 for sentence in paragraph:
-                    text.extend(sentence) 
+                    text.extend(sentence + " ") 
 
-        return " ".join(text)
+        return "".join(text)
     
     
     def get_NER_subjects(self, text):
@@ -35,6 +38,7 @@ class BiasPipeline:
     
     @staticmethod
     def set_Coref_model(text):
+        #fastcoref
         model = FCoref(device='cuda:0')
         preds = model.predict(texts=text)     
         return preds

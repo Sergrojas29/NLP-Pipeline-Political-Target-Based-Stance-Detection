@@ -1,0 +1,9 @@
+for linked in doc._.linkedEntities:
+    print(linked.get_label())        # entity name, e.g. "Paul LePage"
+    print(linked.get_description())  # Wikidata description, e.g. "American politician"
+    print(linked.get_id())           # Wikidata QID, e.g. "Q1234567"
+    print(linked.get_url())
+    print(linked.span)               # the spacy span object
+    print(linked.span.text)          # raw text as it appears
+    print(linked.span.start_char)    # character offset start
+    print(linked.span.end_char)      # character offset end
