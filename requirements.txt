@@ -1,2 +1,6 @@
 fastcoref
 spacy-entity-linker
+flask
+Flask-Cors
+gunicorn
+psycopg2-binary

@@ -41,7 +41,7 @@ class BiasPipeline:
 
         return "".join(text)
     
-    def get_Stance(self , rawtext:str):
+    def get_full_artical_stance(self , rawtext:str):
         
         #Named Enitity Recognition and Enity linked
         doc = self.NER_nlp(rawtext)
@@ -127,7 +127,7 @@ class BiasPipeline:
     
     def connect_CoRef(self, rawtext:str, data: dict):
         #Run coref model
-        preds = pipeline.Coref_model.predict(rawtext)
+        preds = self.Coref_model.predict(rawtext)
         spans = preds.get_clusters(as_strings=False)
         
         #update dictionary
@@ -189,7 +189,7 @@ class BiasPipeline:
         template = f"The author of this text is {{}} {target_name}."
         
         # Run the inference
-        stance = pipeline.stance_classifier(
+        stance = self.stance_classifier(
             sentence, 
             candidate_labels=labels, 
             hypothesis_template=template
@@ -207,3 +207,4 @@ class BiasPipeline:
                 data[id]['stance'].append(stance_result)
         
         return
+    

@@ -82,8 +82,7 @@ h1 {
 }
 
 .glass-panel:hover {
-  transform: translateY(-0.25rem);
-  box-shadow: 0 0.75rem 3rem rgba(147, 129, 255, 0.25);
+  /* box-shadow: 0 0.75rem 3rem rgba(147, 129, 255, 0.25); */
   border-color: rgba(147, 129, 255, 0.6);
 }
 
@@ -118,4 +117,59 @@ h1 {
   border: 0.125rem dashed var(--periwinkle);
   border-radius: 0.5rem;
   margin-top: 1rem;
+}
+
+.chart-controls-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 1rem;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.4);
+  border-radius: 0.5rem;
+  border: 1px solid var(--periwinkle);
+}
+
+.controls-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.controls-row label {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-muted);
+}
+
+.toggle-btn {
+  background: var(--bg-color);
+  border: 1px solid var(--periwinkle);
+  color: var(--text-main);
+  padding: 0.4rem 0.8rem;
+  border-radius: 0.4rem;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.85rem;
+  transition: all 0.2s ease;
+}
+
+.toggle-btn.active {
+  background: var(--soft-periwinkle);
+  color: #fff;
+  border-color: var(--soft-periwinkle);
+}
+
+.toggle-btn:hover {
+  background: rgba(147, 129, 255, 0.2);
+}
+
+.toggle-btn.active:hover {
+  background: rgba(147, 129, 255, 0.8);
+}
+
+.slider-input {
+  flex: 1;
+  cursor: pointer;
 }

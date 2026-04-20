@@ -1,0 +1,120 @@
+{
+    "76": {
+        "name": "Barack Obama",
+        "span": [
+            [
+                85,
+                93
+            ],
+            [
+                241,
+                303
+            ],
+            [
+                442,
+                460
+            ],
+            [
+                619,
+                627
+            ]
+        ],
+        "description": "44th president of the United States",
+        "stance": [
+            {
+                "sequence": "As part of its final bit of business before the election, Congress is set to vote to Barack Obama President Obama’s veto of a bill allowing families of those killed in the Sept. 11 attacks to sue Saudi Arabia for any role in the terrorist plot.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.807616651058197,
+                    0.12385203689336777,
+                    0.06853130459785461
+                ]
+            },
+            {
+                "sequence": "Barack Obama is expected to begin in the Senate on Wednesday, followed by the House on Thursday.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8533686399459839,
+                    0.09207737445831299,
+                    0.054554034024477005
+                ]
+            },
+            {
+                "sequence": "Some lawmakers have been scrambling to try to obviate Barack Obama.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.46672630310058594,
+                    0.33584222197532654,
+                    0.19743144512176514
+                ]
+            },
+            {
+                "sequence": "But their efforts, which come after both chambers overwhelmingly passed the bill, are almost certain to be futile, and members of both parties have vowed to Barack Obama the bill.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.7528812885284424,
+                    0.13367240130901337,
+                    0.11344628781080246
+                ]
+            }
+        ]
+    },
+    "170581": {
+        "name": "Nancy Pelosi",
+        "span": [
+            [
+                638,
+                744
+            ],
+            [
+                852,
+                855
+            ]
+        ],
+        "description": "Speaker of the United States House of Representatives",
+        "stance": [
+            {
+                "sequence": "Nancy Pelosi tried on Tuesday to play down any split between Democrats and Mr. Obama.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9019997119903564,
+                    0.05570491403341293,
+                    0.04229537397623062
+                ]
+            },
+            {
+                "sequence": "“It’s not against the president,” Nancy Pelosi said.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8202080130577087,
+                    0.11100307106971741,
+                    0.06878889352083206
+                ]
+            }
+        ]
+    }
+}

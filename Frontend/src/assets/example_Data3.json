@@ -1,0 +1,1381 @@
+{
+    "60751235": {
+        "name": "Quinton Lucas",
+        "span": [
+            [
+                4309,
+                4322
+            ],
+            [
+                4531,
+                4536
+            ],
+            [
+                4929,
+                4934
+            ],
+            [
+                4987,
+                4992
+            ]
+        ],
+        "description": null,
+        "stance": [
+            {
+                "sequence": "Kansas City Mayor Quinton Lucas, who was a Mitch Landrieu admirer long before hearing the toast at Galatoire\u2019s and then following Mitch Landrieu to dance out on Bourbon Street, calls Mitch Landrieu \u201cone of the most charismatic people in American politics today.\u201d",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.8601243495941162,
+                    0.09092241525650024,
+                    0.04895326495170593
+                ]
+            },
+            {
+                "sequence": "Quinton Lucas compared Mitch Landrieu to Kamala Harris",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.7257158160209656,
+                    0.23320189118385315,
+                    0.04108226299285889
+                ]
+            },
+            {
+                "sequence": "\u201cIn a game where it\u2019s still retail, in a game where it\u2019s a whole lot of South Carolina and who\u2019s actually speaking to and relating to the people there in a lot of places, Black politicians for example, Mitch Landrieu\u2019s got unique strengths that really Kamala Harris\u201d Quinton Lucas said.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.6413578391075134,
+                    0.3212376832962036,
+                    0.03740448132157326
+                ]
+            },
+            {
+                "sequence": "Asked to boil down what he was trying to say, Quinton Lucas, who is Black, explained, \u201cMitch Landrieu\u2019s a White dude who fits in everywhere.\u201d",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.6780378222465515,
+                    0.27341750264167786,
+                    0.048544663935899734
+                ]
+            }
+        ]
+    },
+    "3317069": {
+        "name": "Mitch Landrieu",
+        "span": [
+            [
+                25,
+                83
+            ],
+            [
+                198,
+                205
+            ],
+            [
+                258,
+                272
+            ],
+            [
+                295,
+                297
+            ],
+            [
+                529,
+                531
+            ],
+            [
+                750,
+                758
+            ],
+            [
+                940,
+                942
+            ],
+            [
+                1016,
+                1018
+            ],
+            [
+                1107,
+                1115
+            ],
+            [
+                1399,
+                1402
+            ],
+            [
+                1665,
+                1673
+            ],
+            [
+                2031,
+                2039
+            ],
+            [
+                2145,
+                2148
+            ],
+            [
+                2164,
+                2165
+            ],
+            [
+                2205,
+                2207
+            ],
+            [
+                2236,
+                2237
+            ],
+            [
+                2255,
+                2257
+            ],
+            [
+                2269,
+                2270
+            ],
+            [
+                2328,
+                2336
+            ],
+            [
+                2379,
+                2382
+            ],
+            [
+                3577,
+                3580
+            ],
+            [
+                3648,
+                3651
+            ],
+            [
+                3814,
+                3822
+            ],
+            [
+                4028,
+                4030
+            ],
+            [
+                4109,
+                4112
+            ],
+            [
+                4124,
+                4126
+            ],
+            [
+                4223,
+                4231
+            ],
+            [
+                4334,
+                4342
+            ],
+            [
+                4415,
+                4418
+            ],
+            [
+                4457,
+                4465
+            ],
+            [
+                4546,
+                4554
+            ],
+            [
+                4825,
+                4827
+            ],
+            [
+                5020,
+                5022
+            ],
+            [
+                5238,
+                5246
+            ],
+            [
+                5253,
+                5255
+            ],
+            [
+                5270,
+                5272
+            ],
+            [
+                5404,
+                5406
+            ],
+            [
+                5708,
+                5709
+            ],
+            [
+                5734,
+                5736
+            ],
+            [
+                5744,
+                5745
+            ],
+            [
+                5752,
+                5754
+            ],
+            [
+                5762,
+                5764
+            ],
+            [
+                5807,
+                5809
+            ],
+            [
+                5810,
+                5811
+            ],
+            [
+                5848,
+                5850
+            ],
+            [
+                5851,
+                5852
+            ],
+            [
+                5895,
+                5897
+            ],
+            [
+                5940,
+                5942
+            ],
+            [
+                5986,
+                5989
+            ],
+            [
+                6009,
+                6011
+            ],
+            [
+                6017,
+                6020
+            ],
+            [
+                6037,
+                6045
+            ],
+            [
+                6083,
+                6086
+            ],
+            [
+                6116,
+                6119
+            ],
+            [
+                6227,
+                6230
+            ],
+            [
+                6318,
+                6321
+            ],
+            [
+                6353,
+                6356
+            ],
+            [
+                6407,
+                6409
+            ],
+            [
+                6444,
+                6446
+            ],
+            [
+                6518,
+                6526
+            ],
+            [
+                6540,
+                6548
+            ],
+            [
+                6557,
+                6560
+            ],
+            [
+                6749,
+                6751
+            ],
+            [
+                6933,
+                6941
+            ],
+            [
+                7093,
+                7101
+            ],
+            [
+                7125,
+                7128
+            ],
+            [
+                7150,
+                7157
+            ],
+            [
+                7192,
+                7194
+            ],
+            [
+                7351,
+                7361
+            ],
+            [
+                7374,
+                7376
+            ],
+            [
+                7638,
+                7641
+            ],
+            [
+                7705,
+                7708
+            ],
+            [
+                7789,
+                7791
+            ],
+            [
+                7822,
+                7830
+            ],
+            [
+                7842,
+                7844
+            ],
+            [
+                7887,
+                7890
+            ],
+            [
+                7906,
+                7909
+            ],
+            [
+                7923,
+                7925
+            ],
+            [
+                7990,
+                7992
+            ],
+            [
+                8264,
+                8272
+            ],
+            [
+                8299,
+                8300
+            ],
+            [
+                8402,
+                8404
+            ]
+        ],
+        "description": "American politician",
+        "stance": [
+            {
+                "sequence": "Quietly, Mitch Landrieu showed up to a meeting of Democratic activists here and started to incept a presidential campaign \u2013 including for Mitch Landrieu.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.569959282875061,
+                    0.3940289318561554,
+                    0.03601178154349327
+                ]
+            },
+            {
+                "sequence": "It helped that the meeting as in the city that gave Mitch Landrieu the accent with which Mitch Landrieu squeezes three soft syllables out of the second word in \u201cNew Orleans.\u201d",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.863716185092926,
+                    0.12138459831476212,
+                    0.014899203553795815
+                ]
+            },
+            {
+                "sequence": "It\u2019s like when New Orleans got destroyed by Katrina,\u201d Mitch Landrieu told a gathering of the Young Democrats of America attached to an otherwise ho-hum seasonal meeting of the Democratic National Committee this month.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.7312302589416504,
+                    0.14342641830444336,
+                    0.12534332275390625
+                ]
+            },
+            {
+                "sequence": "\u201cWe grabbed our past \u2013 that was important, that told us who we are,\u201d Mitch Landrieu added.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.630767285823822,
+                    0.3386160135269165,
+                    0.030616724863648415
+                ]
+            },
+            {
+                "sequence": "Mitch Landrieu was riffing without notes.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8927398920059204,
+                    0.06457716971635818,
+                    0.04268290102481842
+                ]
+            },
+            {
+                "sequence": "\u201cYou get to construct a new day, if you win,\u201d Mitch Landrieu said.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.7767302393913269,
+                    0.19287198781967163,
+                    0.0303978081792593
+                ]
+            },
+            {
+                "sequence": "More Democrats were with Mitch Landrieu that night upstairs at the famous Galatoire\u2019s restaurant in the French Quarter \u2013 elected officials, operatives and influencer Carlos, Prince of Asturias Espina, who has 14 million TikTok followers and had keynoted the main DNC meeting earlier that afternoon.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.7719202637672424,
+                    0.20908251404762268,
+                    0.018997197970747948
+                ]
+            },
+            {
+                "sequence": "Multiple people in the room who listened to Mitch Landrieu toast told CNN later they\u2019d been surprised how much it felt like a soft launch.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.9626076817512512,
+                    0.023803124204277992,
+                    0.013589126989245415
+                ]
+            },
+            {
+                "sequence": "Most are better known than Mitch Landrieu.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8613699078559875,
+                    0.08679961413145065,
+                    0.051830414682626724
+                ]
+            },
+            {
+                "sequence": "Walking along the Mississippi River the next afternoon after yet another speech, this time to the DNC executive board, rousing them to be as hard-nosed as necessary to win big in this fall\u2019s midterms, Mitch Landrieu bit harder than most when acknowledging that what would be a dark horse presidential run is very much on Mitch Landrieu mind.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.5594106912612915,
+                    0.40096578001976013,
+                    0.03962352126836777
+                ]
+            },
+            {
+                "sequence": "\u201cWhether Mitch Landrieu\u2019m the president or one of a hundred of Mitch Landrieu best friends are president, Mitch Landrieu am at a point in Mitch Landrieu life where Mitch Landrieu really feel like the future of the country is at stake,\u201d Mitch Landrieu told CNN.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.6907680034637451,
+                    0.28142184019088745,
+                    0.02781016379594803
+                ]
+            },
+            {
+                "sequence": "\u201cAnd so, people say, \u2018What, are Mitch Landrieu going to run for president?\u2019",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8070759773254395,
+                    0.152387335896492,
+                    0.04053666442632675
+                ]
+            },
+            {
+                "sequence": "The workers setting up for the French Quarter festival who greeted Mitch Landrieu with hugs, the many people who called out \u201cHey Mitch!\u201d or \u201cWe need Mitch Landrieu back,\u201d the man with the candied pecan sampler tray who insisted on a selfie \u2013 each moment could have been a scene in a future campaign commercial.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.5360969305038452,
+                    0.41792061924934387,
+                    0.04598246514797211
+                ]
+            },
+            {
+                "sequence": "So was the way Mitch Landrieu did a few seconds of an impromptu soft-shoe after putting a $20 bill into the box of a street performer working with a strip of cardboard and foil on his shoes.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.45866745710372925,
+                    0.43045756220817566,
+                    0.11087501049041748
+                ]
+            },
+            {
+                "sequence": "Coming up in and governing this city, where Mitch Landrieu sang \u201cAve Maria\u201d in the choir loft in the cathedral on Jackson Square and met Mitch Landrieu wife while Mitch Landrieu was playing Che Guevara in \u201cEvita\u201d in the theater across the street, has also given what those who know Mitch Landrieu say could be a particularly important political advantage.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.6775554418563843,
+                    0.2945602536201477,
+                    0.027884243056178093
+                ]
+            },
+            {
+                "sequence": "Kansas City Mayor Quinton Lucas, who was a Mitch Landrieu admirer long before hearing the toast at Galatoire\u2019s and then following Mitch Landrieu to dance out on Bourbon Street, calls Mitch Landrieu \u201cone of the most charismatic people in American politics today.\u201d",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.998367965221405,
+                    0.000903309031855315,
+                    0.0007286701002158225
+                ]
+            },
+            {
+                "sequence": "Quinton Lucas compared Mitch Landrieu to Kamala Harris",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8406449556350708,
+                    0.08364254981279373,
+                    0.07571247220039368
+                ]
+            },
+            {
+                "sequence": "\u201cIn a game where it\u2019s still retail, in a game where it\u2019s a whole lot of South Carolina and who\u2019s actually speaking to and relating to the people there in a lot of places, Black politicians for example, Mitch Landrieu\u2019s got unique strengths that really Kamala Harris\u201d Quinton Lucas said.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9802640676498413,
+                    0.017641320824623108,
+                    0.0020946457516402006
+                ]
+            },
+            {
+                "sequence": "Asked to boil down what he was trying to say, Quinton Lucas, who is Black, explained, \u201cMitch Landrieu\u2019s a White dude who fits in everywhere.\u201d",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.7744401693344116,
+                    0.21729730069637299,
+                    0.008262565359473228
+                ]
+            },
+            {
+                "sequence": "Here and across the country, Mitch Landrieu said, Mitch Landrieu can feel what Mitch Landrieu says is hurt that becomes resentment that becomes anger, from too many Americans feeling like the social contract has been broken.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.5796073079109192,
+                    0.38197633624076843,
+                    0.038416363298892975
+                ]
+            },
+            {
+                "sequence": "Mitch Landrieu often tells a story of sitting with a group of older coal miners in West Virginia, summarizing their thoughts: \u201cY\u2019all needed us to help save the world by creating fuel so that our warships could go save democracy.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.6703963279724121,
+                    0.29287445545196533,
+                    0.03672920539975166
+                ]
+            },
+            {
+                "sequence": "And Mitch Landrieu sucked all that shit in Mitch Landrieu lungs.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.971023440361023,
+                    0.020380550995469093,
+                    0.0085960254073143
+                ]
+            },
+            {
+                "sequence": "Mitch Landrieu broke Mitch Landrieu back,\u201d Mitch Landrieu said.",
+                "labels": [
+                    "in favor of",
+                    "against",
+                    "neutral toward"
+                ],
+                "scores": [
+                    0.48976606130599976,
+                    0.2941712737083435,
+                    0.21606266498565674
+                ]
+            },
+            {
+                "sequence": "\u201cAnd now, one, you\u2019re going to tell Mitch Landrieu Mitch Landrieu\u2019m stupid.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9916463494300842,
+                    0.005437459331005812,
+                    0.002916152123361826
+                ]
+            },
+            {
+                "sequence": "Two, you\u2019re going to tell Mitch Landrieu Mitch Landrieu\u2019m bad.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9892169237136841,
+                    0.0065172514878213406,
+                    0.004265777766704559
+                ]
+            },
+            {
+                "sequence": "And three, you\u2019re not going to pay Mitch Landrieu retirement.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9547179937362671,
+                    0.04008514806628227,
+                    0.005196769256144762
+                ]
+            },
+            {
+                "sequence": "And then you\u2019re going to tell Mitch Landrieu, \u2018Listen, no problem.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8193559646606445,
+                    0.11629454046487808,
+                    0.06434950232505798
+                ]
+            },
+            {
+                "sequence": "We\u2019re going to teach Mitch Landrieu how to code.\u2019\u201d",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9715070724487305,
+                    0.015204965136945248,
+                    0.013287934474647045
+                ]
+            },
+            {
+                "sequence": "Did Mitch Landrieu miss Mitch Landrieu chance already?",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.7356007099151611,
+                    0.15287834405899048,
+                    0.11152098327875137
+                ]
+            },
+            {
+                "sequence": "Mitch Landrieu has been down this road before.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.7639077305793762,
+                    0.1546677201986313,
+                    0.08142460137605667
+                ]
+            },
+            {
+                "sequence": "Even Mitch Landrieu biggest boosters acknowledge Mitch Landrieu last big flirt fizzled, when a 2020 Democratic primary run was planned to segue from the national tour for Mitch Landrieu 2018 book, \u201cIn the Shadow of Statues: A White Southerner Confronts History,\u201d based off Mitch Landrieu searing 2017 speech explaining Mitch Landrieu decision to take down four Confederate monuments.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.8699648976325989,
+                    0.10891998559236526,
+                    0.021115101873874664
+                ]
+            },
+            {
+                "sequence": "Mitch Landrieu told allies around that time that Mitch Landrieu wouldn\u2019t run if Joe Biden3 entered the field.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8852577209472656,
+                    0.07241842895746231,
+                    0.04232387617230415
+                ]
+            },
+            {
+                "sequence": "Ultimately, 2012 VP113 ran and Mitch Landrieu didn\u2019t.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8157861828804016,
+                    0.11592929065227509,
+                    0.0682845413684845
+                ]
+            },
+            {
+                "sequence": "Now, Mitch Landrieu thinks, Mitch Landrieu Katrina experience could fit into a moment different from the same time in than Donald Trump first term, when many Democrats were thinking that Donald Trump would be a blip.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.7004794478416443,
+                    0.27700361609458923,
+                    0.022516874596476555
+                ]
+            },
+            {
+                "sequence": "Mitch Landrieu also isn\u2019t sure that other Democrats have the same interest in building a coalition of Donald Trump supporters and other voters that may have left their party.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8842995762825012,
+                    0.07265421003103256,
+                    0.043046195060014725
+                ]
+            },
+            {
+                "sequence": "After 2012 VP113 won, 2012 VP113 brought Mitch Landrieu into the administration to manage the implementation of the bipartisan infrastructure bill and then to be a co-chair of the re-election campaign.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.924723207950592,
+                    0.039658043533563614,
+                    0.035618748515844345
+                ]
+            },
+            {
+                "sequence": "Then Mitch Landrieu passed when some urged Mitch Landrieu to run for DNC chair Mitch Landrieu after the 2024 election, thinking Mitch Landrieu\u2019d be the right person to speak for the Democrats as they tried to rebuild.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.6766732931137085,
+                    0.28121986985206604,
+                    0.04210687428712845
+                ]
+            },
+            {
+                "sequence": "At the Young Democrats gathering, an aide set up an iPhone on a tripod to record Mitch Landrieu speech.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9039791226387024,
+                    0.06322184950113297,
+                    0.03279906511306763
+                ]
+            },
+            {
+                "sequence": "But Mitch Landrieu hasn\u2019t taken any of the real preliminary steps toward putting together a prospective operation, staff, fundraising base or framework that would be necessary to turn an interest into a campaign.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8854767084121704,
+                    0.07530348747968674,
+                    0.039219845086336136
+                ]
+            },
+            {
+                "sequence": "These days, a believe-it-when-they-see-it tone quickly creeps into Mitch Landrieu boosters\u2019 voices as they talk through their conversations with Mitch Landrieu, but also a wistfulness as they can\u2019t help but dream about what might happen if Mitch Landrieu went forward with a campaign.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9869976043701172,
+                    0.010150461457669735,
+                    0.0028519071638584137
+                ]
+            },
+            {
+                "sequence": "Mitch Landrieu is now 65.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8636809587478638,
+                    0.10120624303817749,
+                    0.035112831741571426
+                ]
+            },
+            {
+                "sequence": "Mitch Landrieu acknowledged what several people close to Mitch Landrieu told CNN about Mitch Landrieu thinking: If Mitch Landrieu\u2019s going to run for president, this is probably the last chance.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8382076025009155,
+                    0.10898679494857788,
+                    0.05280560627579689
+                ]
+            },
+            {
+                "sequence": "Mitch Landrieu points admiringly to New York City Mayor Zohran Mamdani, who became a phenomenon not because of name recognition or money in the bank, but a compelling vision told via cheap and viral online videos.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.8481860160827637,
+                    0.1092124804854393,
+                    0.042601484805345535
+                ]
+            },
+            {
+                "sequence": "As for those who\u2019ve been making moves that could give them head starts, Mitch Landrieu noted, \u201cthey\u2019re all good.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8506121039390564,
+                    0.12200495600700378,
+                    0.02738296426832676
+                ]
+            },
+            {
+                "sequence": "Mitch Landrieu would just say that it\u2019s really hard to be the front-runner over three years.\u201d",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.9228172898292542,
+                    0.06246211379766464,
+                    0.014720598235726357
+                ]
+            },
+            {
+                "sequence": "\u201cAnd on top of that,\u201d Mitch Landrieu adds, somewhat downplaying what people thought of Donald Trump and 2012 VP113\u2019s initial prospects, \u201cthe last two presidents we\u2019ve had have been people that nobody ever thought was going to be president when it all started.\u201d",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8159791827201843,
+                    0.14235088229179382,
+                    0.04166991636157036
+                ]
+            }
+        ]
+    },
+    "15980607": {
+        "name": "2012 VP113",
+        "span": [
+            [
+                6463,
+                6472
+            ],
+            [
+                6504,
+                6509
+            ],
+            [
+                6911,
+                6916
+            ],
+            [
+                6922,
+                6924
+            ],
+            [
+                8465,
+                8470
+            ]
+        ],
+        "description": "Trans-Neptunian object",
+        "stance": [
+            {
+                "sequence": "Mitch Landrieu told allies around that time that Mitch Landrieu wouldn\u2019t run if Joe Biden3 entered the field.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.5777071118354797,
+                    0.34580790996551514,
+                    0.07648498564958572
+                ]
+            },
+            {
+                "sequence": "Ultimately, 2012 VP113 ran and Mitch Landrieu didn\u2019t.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8070111274719238,
+                    0.13148388266563416,
+                    0.06150501221418381
+                ]
+            },
+            {
+                "sequence": "After 2012 VP113 won, 2012 VP113 brought Mitch Landrieu into the administration to manage the implementation of the bipartisan infrastructure bill and then to be a co-chair of the re-election campaign.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.828568160533905,
+                    0.1418205350637436,
+                    0.02961130253970623
+                ]
+            },
+            {
+                "sequence": "\u201cAnd on top of that,\u201d Mitch Landrieu adds, somewhat downplaying what people thought of Donald Trump and 2012 VP113\u2019s initial prospects, \u201cthe last two presidents we\u2019ve had have been people that nobody ever thought was going to be president when it all started.\u201d",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8822581171989441,
+                    0.07236713916063309,
+                    0.045374736189842224
+                ]
+            }
+        ]
+    },
+    "1946678": {
+        "name": "Moon Landrieu",
+        "span": [
+            [
+                2534,
+                2547
+            ],
+            [
+                2827,
+                2840
+            ]
+        ],
+        "description": "US politician",
+        "stance": [
+            {
+                "sequence": "In the run-up to the 1976 election, with America was still reeling from Watergate, New Orleans Mayor Moon Landrieu thought about running for president, seeing a path for an outsider conciliator in a race that ultimately put another southerner, Georgia Gov. Jimmy Carter, in the White House.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8757405281066895,
+                    0.09995505958795547,
+                    0.02430441975593567
+                ]
+            },
+            {
+                "sequence": "(The way Mitch Landrieu tells the story, it was his grandmother who was most disappointed, saying when Moon Landrieu passed on a campaign, \u201cAll the other mother\u2019s sons are running for president, and mine\u2019s not.\u201d)",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.557789146900177,
+                    0.3966922461986542,
+                    0.045518629252910614
+                ]
+            }
+        ]
+    },
+    "7983732": {
+        "name": "Wes Moore",
+        "span": [
+            [
+                4558,
+                4621
+            ],
+            [
+                4863,
+                4910
+            ]
+        ],
+        "description": "American financial analyst",
+        "stance": [
+            {
+                "sequence": "Quinton Lucas compared Mitch Landrieu to Kamala Harris",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8045398592948914,
+                    0.1305702179670334,
+                    0.06488992273807526
+                ]
+            },
+            {
+                "sequence": "\u201cIn a game where it\u2019s still retail, in a game where it\u2019s a whole lot of South Carolina and who\u2019s actually speaking to and relating to the people there in a lot of places, Black politicians for example, Mitch Landrieu\u2019s got unique strengths that really Kamala Harris\u201d Quinton Lucas said.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8472337126731873,
+                    0.08778465539216995,
+                    0.06498168408870697
+                ]
+            }
+        ]
+    },
+    "22686": {
+        "name": "Donald Trump",
+        "span": [
+            [
+                6641,
+                6665
+            ],
+            [
+                6717,
+                6731
+            ],
+            [
+                6839,
+                6844
+            ],
+            [
+                8455,
+                8460
+            ]
+        ],
+        "description": "45th and current president of the United States",
+        "stance": [
+            {
+                "sequence": "Now, Mitch Landrieu thinks, Mitch Landrieu Katrina experience could fit into a moment different from the same time in than Donald Trump first term, when many Democrats were thinking that Donald Trump would be a blip.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.753707230091095,
+                    0.2111445665359497,
+                    0.03514822944998741
+                ]
+            },
+            {
+                "sequence": "Mitch Landrieu also isn\u2019t sure that other Democrats have the same interest in building a coalition of Donald Trump supporters and other voters that may have left their party.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.692901611328125,
+                    0.28685909509658813,
+                    0.020239252597093582
+                ]
+            },
+            {
+                "sequence": "\u201cAnd on top of that,\u201d Mitch Landrieu adds, somewhat downplaying what people thought of Donald Trump and 2012 VP113\u2019s initial prospects, \u201cthe last two presidents we\u2019ve had have been people that nobody ever thought was going to be president when it all started.\u201d",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8650574684143066,
+                    0.10100933909416199,
+                    0.033933158963918686
+                ]
+            }
+        ]
+    },
+    "159817": {
+        "name": "Carlos, Prince of Asturias",
+        "span": [
+            [
+                1242,
+                1248
+            ]
+        ],
+        "description": "Prince of Asturias",
+        "stance": [
+            {
+                "sequence": "More Democrats were with Mitch Landrieu that night upstairs at the famous Galatoire\u2019s restaurant in the French Quarter \u2013 elected officials, operatives and influencer Carlos, Prince of Asturias Espina, who has 14 million TikTok followers and had keynoted the main DNC meeting earlier that afternoon.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.9249297380447388,
+                    0.05444539710879326,
+                    0.02062482014298439
+                ]
+            }
+        ]
+    },
+    "23685": {
+        "name": "Jimmy Carter",
+        "span": [
+            [
+                2690,
+                2702
+            ]
+        ],
+        "description": "American politician, 39th President of the United States (in office from 1977 to 1981)",
+        "stance": [
+            {
+                "sequence": "In the run-up to the 1976 election, with America was still reeling from Watergate, New Orleans Mayor Moon Landrieu thought about running for president, seeing a path for an outsider conciliator in a race that ultimately put another southerner, Georgia Gov. Jimmy Carter, in the White House.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8112061619758606,
+                    0.1592492312192917,
+                    0.02954457700252533
+                ]
+            }
+        ]
+    },
+    "5809": {
+        "name": "Che Guevara",
+        "span": [
+            [
+                4139,
+                4142
+            ]
+        ],
+        "description": "Argentine Marxist revolutionary",
+        "stance": [
+            {
+                "sequence": "Coming up in and governing this city, where Mitch Landrieu sang \u201cAve Maria\u201d in the choir loft in the cathedral on Jackson Square and met Mitch Landrieu wife while Mitch Landrieu was playing Che Guevara in \u201cEvita\u201d in the theater across the street, has also given what those who know Mitch Landrieu say could be a particularly important political advantage.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8884848952293396,
+                    0.08373870700597763,
+                    0.027776367962360382
+                ]
+            }
+        ]
+    },
+    "10853588": {
+        "name": "Kamala Harris",
+        "span": [
+            [
+                4558,
+                4593
+            ],
+            [
+                4863,
+                4889
+            ]
+        ],
+        "description": "United States Senator from California",
+        "stance": [
+            {
+                "sequence": "Quinton Lucas compared Mitch Landrieu to Kamala Harris",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8645283579826355,
+                    0.08775829523801804,
+                    0.04771335795521736
+                ]
+            },
+            {
+                "sequence": "\u201cIn a game where it\u2019s still retail, in a game where it\u2019s a whole lot of South Carolina and who\u2019s actually speaking to and relating to the people there in a lot of places, Black politicians for example, Mitch Landrieu\u2019s got unique strengths that really Kamala Harris\u201d Quinton Lucas said.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9567201137542725,
+                    0.03952713683247566,
+                    0.003752773627638817
+                ]
+            }
+        ]
+    },
+    "6279": {
+        "name": "Joe Biden",
+        "span": [
+            [
+                6463,
+                6472
+            ]
+        ],
+        "description": "47th Vice President of the United States (in office from 2009 to 2017)",
+        "stance": [
+            {
+                "sequence": "Mitch Landrieu told allies around that time that Mitch Landrieu wouldn\u2019t run if Joe Biden3 entered the field.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.6386303305625916,
+                    0.2935306131839752,
+                    0.06783906370401382
+                ]
+            }
+        ]
+    }
+}
