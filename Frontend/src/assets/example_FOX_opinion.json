@@ -1,0 +1,144 @@
+{
+    "19560994": {
+        "name": "Mahmoud Khalil",
+        "span": [
+            [
+                2502,
+                2635
+            ],
+            [
+                2574,
+                2577
+            ],
+            [
+                2732,
+                2778
+            ],
+            [
+                2732,
+                2779
+            ]
+        ],
+        "description": "Egyptian handball player",
+        "stance": [
+            {
+                "sequence": "Compounding that concern was a highly publicized Ramadan event at Gracie Mansion featuring Mahmoud Khalil University.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.7714537382125854,
+                    0.1644124686717987,
+                    0.06413383036851883
+                ]
+            },
+            {
+                "sequence": "Mahmoud Khalil",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.6252973079681396,
+                    0.3175823390483856,
+                    0.057120371609926224
+                ]
+            }
+        ]
+    },
+    "212648": {
+        "name": "Rudy Giuliani",
+        "span": [
+            [
+                847,
+                860
+            ]
+        ],
+        "description": "American businessperson and politician, former mayor of New York City",
+        "stance": [
+            {
+                "sequence": "Mayor Rudy Giuliani projected calm and resolve, offering reassurance when it was needed most.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9819928407669067,
+                    0.016879629343748093,
+                    0.0011275564320385456
+                ]
+            }
+        ]
+    },
+    "607": {
+        "name": "Michael Bloomberg",
+        "span": [
+            [
+                1162,
+                1185
+            ],
+            [
+                2213,
+                2224
+            ]
+        ],
+        "description": "American businessman and politician, former mayor of New York City",
+        "stance": [
+            {
+                "sequence": "Under Michael Bloomberg and Police Commissioner Raymond Kelly, crime fell to historic lows, tourism surged and neighborhoods flourished.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9934058785438538,
+                    0.004330107942223549,
+                    0.002264049369841814
+                ]
+            },
+            {
+                "sequence": "It is telling that Michael Bloomberg and other city leaders\u2019 reflex was to immediately focus on the idiotic \u2014 but peaceful \u2014 demonstration the terrorists were targeting rather than two allegedly ISIS-inspired perpetrators.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.5861647725105286,
+                    0.35936665534973145,
+                    0.05446860194206238
+                ]
+            }
+        ]
+    },
+    "3420958": {
+        "name": "Raymond Kelly",
+        "span": [
+            [
+                1210,
+                1223
+            ]
+        ],
+        "description": "Commissioner of the New York City Police Department",
+        "stance": [
+            {
+                "sequence": "Under Michael Bloomberg and Police Commissioner Raymond Kelly, crime fell to historic lows, tourism surged and neighborhoods flourished.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9936758875846863,
+                    0.004037201404571533,
+                    0.002286889124661684
+                ]
+            }
+        ]
+    }
+}

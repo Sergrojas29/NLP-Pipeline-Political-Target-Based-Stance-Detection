@@ -1,0 +1,251 @@
+{
+    "203966": {
+        "name": "Paul Ryan",
+        "span": [
+            [
+                0,
+                18
+            ],
+            [
+                272,
+                285
+            ],
+            [
+                302,
+                304
+            ],
+            [
+                344,
+                347
+            ],
+            [
+                399,
+                403
+            ],
+            [
+                625,
+                629
+            ],
+            [
+                852,
+                856
+            ],
+            [
+                1042,
+                1044
+            ],
+            [
+                1279,
+                1281
+            ],
+            [
+                1398,
+                1400
+            ],
+            [
+                1461,
+                1465
+            ],
+            [
+                1924,
+                1984
+            ],
+            [
+                2169,
+                2173
+            ],
+            [
+                2250,
+                2263
+            ],
+            [
+                2355,
+                2358
+            ],
+            [
+                2451,
+                2455
+            ],
+            [
+                2473,
+                2475
+            ],
+            [
+                2738,
+                2741
+            ]
+        ],
+        "description": "American politician",
+        "stance": [
+            {
+                "sequence": "Paul Ryan is heading to Georgetown University for a speech Thursday morning, but not before an old-fashioned, Catholic school knuckle-rapping.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8301836848258972,
+                    0.12862496078014374,
+                    0.041191376745700836
+                ]
+            },
+            {
+                "sequence": "A group of nearly 90 professors and administrators connected to the Jesuit-founded school in Washington, D.C., has sent Paul Ryan a letter saying Paul Ryan\u2019s misused Catholic doctrine to support Paul Ryan deficit-reducing, GOP House budget.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9699084758758545,
+                    0.01879972778260708,
+                    0.011291798204183578
+                ]
+            },
+            {
+                "sequence": "\u201cWe appreciate Paul Ryan willingness to talk about how Catholic social teaching can help inform effective policy in dealing with the urgent challenges facing our country,\u201d the letter states.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9705181121826172,
+                    0.024463102221488953,
+                    0.005018753465265036
+                ]
+            },
+            {
+                "sequence": "\u201cHowever, we would be remiss \u2026 if we did not challenge Paul Ryan continuing misuse of Catholic teaching to defend a budget plan that decimates food programs for struggling families, radically weakens protections for the elderly and sick and gives more tax breaks to the wealthiest few.\u201d",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9990279674530029,
+                    0.0006310281460173428,
+                    0.0003410796634852886
+                ]
+            },
+            {
+                "sequence": "Paul Ryan, since introducing the budget last month, has talked about the doctrine in several interviews including one a couple weeks ago on the Christian Broadcasting Network.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.9265633821487427,
+                    0.04527176544070244,
+                    0.028164833784103394
+                ]
+            },
+            {
+                "sequence": "In that interview, Paul Ryan invoked the Catholic teaching of \"subsidiarity,\" saying it means \"not having big government crowd out civic society, but ... having enough space in our communities so that we can interact with each other\" and take care of people.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8690056204795837,
+                    0.10887505859136581,
+                    0.0221193116158247
+                ]
+            },
+            {
+                "sequence": "\"To Paul Ryan, the principle of subsidiarity, which is really federalism, meaning government closest to the people governs best,\" Paul Ryan said.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.6058032512664795,
+                    0.3649349808692932,
+                    0.029261764138936996
+                ]
+            },
+            {
+                "sequence": "The Georgetown University letter argues, though, that Paul Ryan misappropriated the Catholic teaching as a \u201crationale for gutting government programs.\u201d",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9606279730796814,
+                    0.03163478150963783,
+                    0.007737309206277132
+                ]
+            },
+            {
+                "sequence": "Paul Ryan said last week the letters do not express the views of all U.S. bishops, a point on which the conference disagrees.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8967856168746948,
+                    0.053672391921281815,
+                    0.04954199492931366
+                ]
+            },
+            {
+                "sequence": "Georgetown's Public Policy Institute, which is hosting the upcoming Paul Ryan lecture, said Wednesday the event is still scheduled for Thursday morning.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.9130223393440247,
+                    0.05814000964164734,
+                    0.02883766032755375
+                ]
+            },
+            {
+                "sequence": "\"Paul Ryan remains grateful for Georgetown's invitation to advance a thoughtful dialogue this week on Paul Ryan efforts to avert a looming debt crisis that would hurt the poor the first and the worst,\u201d a Paul Ryan spokesman said.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.8790169954299927,
+                    0.10585220903158188,
+                    0.015130785293877125
+                ]
+            },
+            {
+                "sequence": "\u201cPaul Ryan looks forward to affirming our shared commitment to a preferential option for the poor, which of course does not mean a preferential option for bigger government.\"",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9771820306777954,
+                    0.01975300721824169,
+                    0.0030649290420114994
+                ]
+            },
+            {
+                "sequence": "Ryan, who was raised on Social Security benefits after his father died, also on Fox News defended Paul Ryan budget against the conference, saying for instance that the concept of denying tax credits to illegal immigrants is merely \"following through on policy\" that has had bipartisan support.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.760302722454071,
+                    0.18138308823108673,
+                    0.05831420049071312
+                ]
+            }
+        ]
+    }
+}

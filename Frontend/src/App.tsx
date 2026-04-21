@@ -10,7 +10,7 @@ import {
 } from 'chart.js';
 import { Bar } from 'react-chartjs-2';
 
-import data from "./assets/example_Data3.json";
+import data from "./assets/example_FOX_opinion.json";
 
 
 
@@ -389,14 +389,14 @@ function SubjectDetailPanel() {
 function App() {
   return (
     <>
-      <h1>Political Sentiment Dashboard</h1>
+      <h1>Political Stance Bias</h1>
       <div className="dashboard-container">
         
         {/* Left Analysis Mirror */}
         <AnalysisPanel />
 
         {/* Right Analysis Mirror */}
-        <AnalysisPanel />
+        {/* <AnalysisPanel /> */}
 
       </div>
       

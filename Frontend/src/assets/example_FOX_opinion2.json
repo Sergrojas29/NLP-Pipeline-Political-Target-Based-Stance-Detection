@@ -1,0 +1,184 @@
+{
+    "22686": {
+        "name": "Donald Trump",
+        "span": [
+            [
+                426,
+                438
+            ],
+            [
+                1602,
+                1607
+            ],
+            [
+                1639,
+                1642
+            ],
+            [
+                3164,
+                3169
+            ],
+            [
+                3179,
+                3181
+            ],
+            [
+                3288,
+                3290
+            ],
+            [
+                3400,
+                3402
+            ],
+            [
+                5134,
+                5139
+            ],
+            [
+                5182,
+                5197
+            ],
+            [
+                6559,
+                6564
+            ],
+            [
+                6580,
+                6582
+            ]
+        ],
+        "description": "45th and current president of the United States",
+        "stance": [
+            {
+                "sequence": "And here\u2019s the part the foreign policy commentariat still doesn\u2019t get: Donald Trump actually understands this dynamic.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9564641714096069,
+                    0.03360283374786377,
+                    0.009932979010045528
+                ]
+            },
+            {
+                "sequence": "What Donald Trump is doing \u2014 whether people like Donald Trump style or not \u2014 is exactly what this situation demands: pressure, pause, pressure again.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.6270526051521301,
+                    0.36406388878822327,
+                    0.008883490227162838
+                ]
+            },
+            {
+                "sequence": "Donald Trump doesn\u2019t.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.7555426955223083,
+                    0.140239879488945,
+                    0.10421742498874664
+                ]
+            },
+            {
+                "sequence": "Donald Trump understands that if you ease off before the dynamic shifts, you don\u2019t get a better deal \u2014 you get played.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.8687689304351807,
+                    0.1106945276260376,
+                    0.020536504685878754
+                ]
+            },
+            {
+                "sequence": "Donald Trump understands that credibility isn\u2019t built on statements; it\u2019s built on a demonstrated willingness to act.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.5552744269371033,
+                    0.43128839135169983,
+                    0.013437199406325817
+                ]
+            },
+            {
+                "sequence": "And Donald Trump understands that regimes like Iran only recalibrate when the alternative becomes unacceptable.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9910730719566345,
+                    0.006453409790992737,
+                    0.0024734754115343094
+                ]
+            },
+            {
+                "sequence": "That\u2019s what Donald Trump has restored: credibility.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9917502403259277,
+                    0.006470443680882454,
+                    0.0017793161096051335
+                ]
+            },
+            {
+                "sequence": "Donald Trump LEADS THE WEST TO A BIG WIN AGAINST IRAN And credibility is everything in this kind of negotiation.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9917040467262268,
+                    0.006552807055413723,
+                    0.0017431166488677263
+                ]
+            },
+            {
+                "sequence": "And for all the noise, that\u2019s exactly what Donald Trump is delivering.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9042470455169678,
+                    0.08656635880470276,
+                    0.009186611510813236
+                ]
+            },
+            {
+                "sequence": "Donald Trump\u2019s staying in the saddle.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8165461421012878,
+                    0.09217482060194016,
+                    0.0912790596485138
+                ]
+            }
+        ]
+    }
+}

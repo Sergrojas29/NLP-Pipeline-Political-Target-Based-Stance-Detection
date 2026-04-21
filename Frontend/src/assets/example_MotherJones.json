@@ -1,0 +1,1257 @@
+{
+    "273969": {
+        "name": "William Jones",
+        "span": [
+            [
+                2,
+                3
+            ],
+            [
+                42,
+                52
+            ],
+            [
+                82,
+                83
+            ],
+            [
+                123,
+                125
+            ],
+            [
+                147,
+                150
+            ],
+            [
+                207,
+                209
+            ],
+            [
+                311,
+                316
+            ],
+            [
+                402,
+                407
+            ],
+            [
+                421,
+                423
+            ],
+            [
+                441,
+                444
+            ],
+            [
+                458,
+                461
+            ],
+            [
+                469,
+                471
+            ],
+            [
+                508,
+                513
+            ],
+            [
+                524,
+                527
+            ],
+            [
+                574,
+                577
+            ],
+            [
+                652,
+                654
+            ],
+            [
+                759,
+                764
+            ],
+            [
+                837,
+                842
+            ],
+            [
+                1199,
+                1205
+            ],
+            [
+                1669,
+                1753
+            ],
+            [
+                1735,
+                1737
+            ],
+            [
+                1882,
+                1887
+            ],
+            [
+                2052,
+                2057
+            ],
+            [
+                2118,
+                2121
+            ],
+            [
+                2123,
+                2128
+            ],
+            [
+                2355,
+                2360
+            ],
+            [
+                2470,
+                2473
+            ],
+            [
+                2577,
+                2582
+            ],
+            [
+                2681,
+                2684
+            ],
+            [
+                2714,
+                2719
+            ],
+            [
+                3274,
+                3279
+            ],
+            [
+                3363,
+                3366
+            ],
+            [
+                3536,
+                3541
+            ],
+            [
+                3650,
+                3655
+            ],
+            [
+                3682,
+                3688
+            ],
+            [
+                3994,
+                4000
+            ],
+            [
+                4047,
+                4050
+            ],
+            [
+                4077,
+                4083
+            ],
+            [
+                4209,
+                4214
+            ],
+            [
+                4284,
+                4286
+            ],
+            [
+                4392,
+                4395
+            ],
+            [
+                4750,
+                4755
+            ],
+            [
+                4839,
+                4844
+            ],
+            [
+                4861,
+                4864
+            ],
+            [
+                4925,
+                4928
+            ],
+            [
+                5126,
+                5131
+            ],
+            [
+                5195,
+                5197
+            ],
+            [
+                5565,
+                5571
+            ],
+            [
+                5887,
+                5889
+            ],
+            [
+                5925,
+                5930
+            ],
+            [
+                6019,
+                6024
+            ],
+            [
+                6041,
+                6044
+            ],
+            [
+                6069,
+                6072
+            ],
+            [
+                6088,
+                6090
+            ],
+            [
+                6382,
+                6387
+            ],
+            [
+                6461,
+                6466
+            ],
+            [
+                6468,
+                6470
+            ],
+            [
+                6740,
+                6745
+            ],
+            [
+                6793,
+                6798
+            ],
+            [
+                6877,
+                6880
+            ],
+            [
+                6967,
+                6977
+            ],
+            [
+                7033,
+                7036
+            ],
+            [
+                7152,
+                7157
+            ],
+            [
+                7229,
+                7235
+            ],
+            [
+                7277,
+                7280
+            ],
+            [
+                7319,
+                7321
+            ],
+            [
+                7435,
+                7440
+            ],
+            [
+                7559,
+                7562
+            ],
+            [
+                7630,
+                7632
+            ],
+            [
+                7678,
+                7680
+            ],
+            [
+                7779,
+                7782
+            ],
+            [
+                7928,
+                7930
+            ],
+            [
+                7957,
+                7960
+            ],
+            [
+                8078,
+                8081
+            ],
+            [
+                8117,
+                8119
+            ],
+            [
+                8213,
+                8218
+            ]
+        ],
+        "description": "Anglo-Welsh philologist and scholar of ancient India",
+        "stance": [
+            {
+                "sequence": "\u201cWilliam Jones thought we\u2019d be shut down last year,\u201d Alex Jonesnes marveled on-air in January.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.6887238621711731,
+                    0.22294177114963531,
+                    0.08833439648151398
+                ]
+            },
+            {
+                "sequence": "\u201cWilliam Jones thought we\u2019d be shut down last month,\u201d William Jones continued, exhorting William Jones audience to consider buying one of the fundraiser items William Jones was hawking to keep the lights on, which at the time included a $111 collectible coin and posters of William Jones and Donald Trump.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.5882564783096313,
+                    0.35263878107070923,
+                    0.05910476669669151
+                ]
+            },
+            {
+                "sequence": "\u201cYou guys have got us out of this over, and over, and over again,\u201d William Jones declared, as William Jones once again asked William Jones fans to give William Jones money.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.6785446405410767,
+                    0.26262617111206055,
+                    0.0588291771709919
+                ]
+            },
+            {
+                "sequence": "William Jones struck the same note in March when, William Jones, slurring William Jones words, told right-wing streamer Tim Pool that William Jones Infowars company was \u201cgetting shut down.\u201d",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.6221998929977417,
+                    0.3436114192008972,
+                    0.03418866917490959
+                ]
+            },
+            {
+                "sequence": "\u201cWe\u2019ve beaten so many attacks,\u201d William Jones added.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.5600775480270386,
+                    0.40696993470191956,
+                    0.03295251354575157
+                ]
+            },
+            {
+                "sequence": "During Infowars\u2019 years in bankruptcy, William Jones still found opportunities to create chaos and raise funds.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.4833277761936188,
+                    0.4661756157875061,
+                    0.050496604293584824
+                ]
+            },
+            {
+                "sequence": "At the time, William Jones didn\u2019t elaborate on what \u201cshutting down\u201d Infowars come April might mean.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9120942950248718,
+                    0.05009332671761513,
+                    0.037812426686286926
+                ]
+            },
+            {
+                "sequence": "The deal, which still has to be approved by a judge, would represent a serious and perhaps final blow to William Jones time at the company.",
+                "labels": [
+                    "in favor of",
+                    "against",
+                    "neutral toward"
+                ],
+                "scores": [
+                    0.5493156909942627,
+                    0.31421568989753723,
+                    0.13646867871284485
+                ]
+            },
+            {
+                "sequence": "It\u2019s been a long few years for William Jonesded in 1999.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8956505060195923,
+                    0.0811108648777008,
+                    0.0232386514544487
+                ]
+            },
+            {
+                "sequence": "Over the last two decades, the site has grown beyond anyone\u2019s wildest expectations in terms of money, each, and infamy, making William Jones something of a household name\u2014certainly in households concerned with claims about black helicopters, FEMA camps, and chemicals that are \u201cturning the frogs gay,\u201d as William Jones infamously put it.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.613330066204071,
+                    0.24492071568965912,
+                    0.14174923300743103
+                ]
+            },
+            {
+                "sequence": "eventually the infamy caught up with William Jones: William Jones was sued in both Texas and Connecticut for claiming on-air that the 2012 murders at Sandy Hook Elementary School, where a gunman killed 20 children and six adults, were a \u201cmassive hoax\u201d and a false flag.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8018437623977661,
+                    0.18997858464717865,
+                    0.008177638985216618
+                ]
+            },
+            {
+                "sequence": "It\u2019s been years since William Jones lost three related defamation lawsuits by default and had more than $1 billion in judgments rendered against William Jones and Infowars.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.5749874711036682,
+                    0.3953757584095001,
+                    0.02963678538799286
+                ]
+            },
+            {
+                "sequence": "But William Jones and Infowars continued\u2014and continued, and continued\u2014in large part by using the judicial system to William Jones advantage.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.5321402549743652,
+                    0.41768163442611694,
+                    0.05017811059951782
+                ]
+            },
+            {
+                "sequence": "Both Infowars and William Jones personally filed for Chapter 7 bankruptcy protection in 2022, setting the stage for an endless series of proceedings in a Texas bankruptcy court.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.7753444910049438,
+                    0.20852836966514587,
+                    0.01612715981900692
+                ]
+            },
+            {
+                "sequence": "In June of 2025, the federal bankruptcy trustee tasked with overseeing Infowars during the process accused William Jones of going to \u201cextraordinary lengths\u201d to hide funds and make fraudulent transfers to William Jones family to the tune of $5 million.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9908071756362915,
+                    0.00662405276671052,
+                    0.002568807452917099
+                ]
+            },
+            {
+                "sequence": "It took until August for Texas district court judge Maya Guerra Gamble\u2014who also oversaw the original Texas Sandy Hook lawsuits against William Jones\u2014to order that Infowars\u2019 assets be turned over to a receiver, paving the way for them to be sold to pay what William Jones owes.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.5605092644691467,
+                    0.43007224798202515,
+                    0.00941838975995779
+                ]
+            },
+            {
+                "sequence": "Since then, some of William Jones personal property has been sold off: court records show that 14 watches, for instance, and a Ford Expedition together brought in $20,720 in October.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9670227766036987,
+                    0.02042084001004696,
+                    0.012556368485093117
+                ]
+            },
+            {
+                "sequence": "The same month, the US Supreme Court declined to hear William Jones appeal seeking to void the judgements against William Jones, putting an end to one of William Jones most loudly-expressed wishes.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.87220299243927,
+                    0.07116781920194626,
+                    0.05662922188639641
+                ]
+            },
+            {
+                "sequence": "During the roughly four years that Infowars was winding its way through the bankruptcy system, William Jones still found time and opportunity to create chaos and raise funds, as William Jones repeatedly vowed to stay on-air no matter what and railed against the process\u2014even as it often worked in William Jones favor.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.6781721711158752,
+                    0.22882913053035736,
+                    0.09299864619970322
+                ]
+            },
+            {
+                "sequence": "essentially turning William Jones into their employee.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.4075774848461151,
+                    0.3558427095413208,
+                    0.23657982051372528
+                ]
+            },
+            {
+                "sequence": "In late 2024, William Jones began directing William Jones viewers to visit a new website, Real Alex Jones, which sold William Jones longstanding favored product category: boldly capitalized supplements, including a $250 \u201cspecial offer\u201d where a selection of pills come with a Faraday bag and a \u201ctrench tactical\u201d knife.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.7811605334281921,
+                    0.11177018284797668,
+                    0.10706926882266998
+                ]
+            },
+            {
+                "sequence": "For years, William Jones has made it clear that whenever the lights go off at Infowars, William Jones intends to immediately start broadcasting at another new site, the Alex Jones Network, which for now just relays Infowars content.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8273327350616455,
+                    0.13479481637477875,
+                    0.037872396409511566
+                ]
+            },
+            {
+                "sequence": "\u201cThere was false comfort in the deplatforming and the trial judgements,\u201d says Josh Owens, referring to both the lawsuits and the decisions made by major tech platforms\u2014including Facebook, Spotify, YouTube, and eventually Twitter\u2014to ban William Jones accounts.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.41192886233329773,
+                    0.3884859085083008,
+                    0.1995851993560791
+                ]
+            },
+            {
+                "sequence": "mIn this \u201ccurrent phase\u201d of legal proceedings, Josh Owens adds, \u201cthere\u2019s false comfort William Jones\u2019ll go away.\u201d",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8063195943832397,
+                    0.16786235570907593,
+                    0.025818053632974625
+                ]
+            },
+            {
+                "sequence": "In the unlikely event William Jones actually does, according to Josh Owens, any sense of relief would be undermined by the reach William Jones and people like William Jones have already achieved: \u201cWilliam Jones ideas and what William Jones built are so ubiquitous now.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.5188862085342407,
+                    0.3901488482952118,
+                    0.0909648910164833
+                ]
+            },
+            {
+                "sequence": "\u201cThere\u2019s a reality here, which is that the legal system works slowly,\u201d says Chris Matteinecticut.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9388914704322815,
+                    0.03272877261042595,
+                    0.0283797699958086
+                ]
+            },
+            {
+                "sequence": "\u201cAnd when you have a corrupt and bad-faith litigant like William Jones, William Jones\u2019s inevitably going to take advantage of the pace.\u201d",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.990881621837616,
+                    0.0048703476786613464,
+                    0.004247992765158415
+                ]
+            },
+            {
+                "sequence": "After initially securing their judgments for the Sandy Hook families, attorneys in both Texas and Connecticut sought to defend their clients\u2019 interests where they could, seeking sanctions and protective orders against William Jones and Infowars.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.983375072479248,
+                    0.014801098965108395,
+                    0.0018238535849377513
+                ]
+            },
+            {
+                "sequence": "But that took time, Chris Mattei says, and William Jones was able to \u201cexploit those delays to gain more attention and essentially fund William Jones defense.\u201d",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.5075098872184753,
+                    0.4720129370689392,
+                    0.020477179437875748
+                ]
+            },
+            {
+                "sequence": "To be clear, Chris Mattei argues that \u201cthis hasn\u2019t been a positive experience for Alex Jonesnes.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.5380042791366577,
+                    0.3389838635921478,
+                    0.12301184982061386
+                ]
+            },
+            {
+                "sequence": "It\u2019s been overwhelmingly negative and devastating for William Jones.\u201d",
+                "labels": [
+                    "against",
+                    "in favor of",
+                    "neutral toward"
+                ],
+                "scores": [
+                    0.6773583889007568,
+                    0.2710179090499878,
+                    0.05162374675273895
+                ]
+            },
+            {
+                "sequence": "\u201cAnybody who has watched this has seen that from the day we filed our lawsuit until the day Infowars shuts down, William Jones has been on a desperate downward trajectory,\u201d Chris Mattei says, pointing to William Jones \u201cpublic statements about the litigation, William Jones increasing lashing out, the fact that William Jones\u2019s had to spend hundreds of thousands\u2014if not millions\u2014of dollars on legal defense.\u201d",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9868115782737732,
+                    0.007534399628639221,
+                    0.005654036533087492
+                ]
+            },
+            {
+                "sequence": "\u201dFor years,\u201d Chris Mattei explains, William Jones \u201chas not controlled Infowars, has not controlled personnel decisions, hasn\u2019t had access to Infowars cash, and has had William Jones personal belongings and one, or maybe two, houses have to be sold.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9634824991226196,
+                    0.022831078618764877,
+                    0.013686418533325195
+                ]
+            },
+            {
+                "sequence": "William Jones\u2019s now on the verge of losing all the IP that William Jones spent 20 years building up.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.43879255652427673,
+                    0.2908751368522644,
+                    0.2703322768211365
+                ]
+            },
+            {
+                "sequence": "That\u2019s not just the Infowars logo: that\u2019s the video inventory, all of William Jones customer data.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.7295439839363098,
+                    0.21086303889751434,
+                    0.05959293246269226
+                ]
+            },
+            {
+                "sequence": "\u201cEvery bit of personal income William Jones generates for the rest of William Jones life,\u201d Chris Mattei adds, \u201cis going to go towards paying off this debt\u201d thanks to a Texas bankruptcy court\u2019s holding \u201cthat William Jones debts are nondischargeable because William Jones acted with such intent and malice towards our clients.\u201d",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.9495706558227539,
+                    0.04344680532813072,
+                    0.0069825369864702225
+                ]
+            },
+            {
+                "sequence": "While the legal process wound on and William Jones kept blustering on air, Johnny Galecki did the same thing Johnny Galecki does every day: woke up and set to work removing vicious lies about Johnny Galecki dead son.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.693171501159668,
+                    0.29924142360687256,
+                    0.007587073370814323
+                ]
+            }
+        ]
+    },
+    "29588977": {
+        "name": "Chris Mattei",
+        "span": [
+            [
+                6338,
+                6402
+            ],
+            [
+                6780,
+                6782
+            ],
+            [
+                6904,
+                6910
+            ],
+            [
+                7204,
+                7210
+            ],
+            [
+                7418,
+                7424
+            ],
+            [
+                7968,
+                7974
+            ]
+        ],
+        "description": null,
+        "stance": [
+            {
+                "sequence": "\u201cThere\u2019s a reality here, which is that the legal system works slowly,\u201d says Chris Matteinecticut.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8254666328430176,
+                    0.14549024403095245,
+                    0.029043098911643028
+                ]
+            },
+            {
+                "sequence": "But that took time, Chris Mattei says, and William Jones was able to \u201cexploit those delays to gain more attention and essentially fund William Jones defense.\u201d",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.5700934529304504,
+                    0.335468053817749,
+                    0.09443849325180054
+                ]
+            },
+            {
+                "sequence": "To be clear, Chris Mattei argues that \u201cthis hasn\u2019t been a positive experience for Alex Jonesnes.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.769498884677887,
+                    0.15625686943531036,
+                    0.07424426823854446
+                ]
+            },
+            {
+                "sequence": "\u201cAnybody who has watched this has seen that from the day we filed our lawsuit until the day Infowars shuts down, William Jones has been on a desperate downward trajectory,\u201d Chris Mattei says, pointing to William Jones \u201cpublic statements about the litigation, William Jones increasing lashing out, the fact that William Jones\u2019s had to spend hundreds of thousands\u2014if not millions\u2014of dollars on legal defense.\u201d",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.8993220329284668,
+                    0.058141034096479416,
+                    0.042536891996860504
+                ]
+            },
+            {
+                "sequence": "\u201dFor years,\u201d Chris Mattei explains, William Jones \u201chas not controlled Infowars, has not controlled personnel decisions, hasn\u2019t had access to Infowars cash, and has had William Jones personal belongings and one, or maybe two, houses have to be sold.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.5933234691619873,
+                    0.3251144587993622,
+                    0.0815621018409729
+                ]
+            },
+            {
+                "sequence": "\u201cEvery bit of personal income William Jones generates for the rest of William Jones life,\u201d Chris Mattei adds, \u201cis going to go towards paying off this debt\u201d thanks to a Texas bankruptcy court\u2019s holding \u201cthat William Jones debts are nondischargeable because William Jones acted with such intent and malice towards our clients.\u201d",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.6150993704795837,
+                    0.26819270849227905,
+                    0.11670791357755661
+                ]
+            }
+        ]
+    },
+    "6289230": {
+        "name": "Josh Owens",
+        "span": [
+            [
+                5407,
+                5417
+            ],
+            [
+                5582,
+                5587
+            ],
+            [
+                5669,
+                5671
+            ],
+            [
+                5852,
+                5857
+            ],
+            [
+                5959,
+                5964
+            ]
+        ],
+        "description": "American basketball player",
+        "stance": [
+            {
+                "sequence": "\u201cThere was false comfort in the deplatforming and the trial judgements,\u201d says Josh Owens, referring to both the lawsuits and the decisions made by major tech platforms\u2014including Facebook, Spotify, YouTube, and eventually Twitter\u2014to ban William Jones accounts.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.5063959956169128,
+                    0.4165499806404114,
+                    0.07705400139093399
+                ]
+            },
+            {
+                "sequence": "Josh Owens is the author of The Madness of Believing, a new memoir detailing the four years Josh Owens worked at Infowars before quitting in 2017.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.9307357668876648,
+                    0.052833206951618195,
+                    0.016431022435426712
+                ]
+            },
+            {
+                "sequence": "mIn this \u201ccurrent phase\u201d of legal proceedings, Josh Owens adds, \u201cthere\u2019s false comfort William Jones\u2019ll go away.\u201d",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.7810359597206116,
+                    0.17667168378829956,
+                    0.04229232296347618
+                ]
+            },
+            {
+                "sequence": "In the unlikely event William Jones actually does, according to Josh Owens, any sense of relief would be undermined by the reach William Jones and people like William Jones have already achieved: \u201cWilliam Jones ideas and what William Jones built are so ubiquitous now.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.4238441586494446,
+                    0.4238441586494446,
+                    0.15231159329414368
+                ]
+            }
+        ]
+    },
+    "319121": {
+        "name": "Alex Jones",
+        "span": [
+            [
+                42,
+                52
+            ],
+            [
+                6967,
+                6977
+            ]
+        ],
+        "description": "American radio host, author, conspiracy theorist and filmmaker",
+        "stance": [
+            {
+                "sequence": "\u201cWilliam Jones thought we\u2019d be shut down last year,\u201d Alex Jonesnes marveled on-air in January.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.700780987739563,
+                    0.2528165578842163,
+                    0.046402428299188614
+                ]
+            },
+            {
+                "sequence": "To be clear, Chris Mattei argues that \u201cthis hasn\u2019t been a positive experience for Alex Jonesnes.",
+                "labels": [
+                    "against",
+                    "neutral toward",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.5565335750579834,
+                    0.32973524928092957,
+                    0.11373110860586166
+                ]
+            }
+        ]
+    },
+    "22686": {
+        "name": "Donald Trump",
+        "span": [
+            [
+                321,
+                333
+            ]
+        ],
+        "description": "45th and current president of the United States",
+        "stance": [
+            {
+                "sequence": "\u201cWilliam Jones thought we\u2019d be shut down last month,\u201d William Jones continued, exhorting William Jones audience to consider buying one of the fundraiser items William Jones was hawking to keep the lights on, which at the time included a $111 collectible coin and posters of William Jones and Donald Trump.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.5873658061027527,
+                    0.3032371401786804,
+                    0.1093970313668251
+                ]
+            }
+        ]
+    },
+    "7804121": {
+        "name": "Tim Pool",
+        "span": [
+            [
+                560,
+                568
+            ]
+        ],
+        "description": "journalist",
+        "stance": [
+            {
+                "sequence": "William Jones struck the same note in March when, William Jones, slurring William Jones words, told right-wing streamer Tim Pool that William Jones Infowars company was \u201cgetting shut down.\u201d",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.857334315776825,
+                    0.10016866773366928,
+                    0.042497001588344574
+                ]
+            }
+        ]
+    },
+    "816470": {
+        "name": "Ben Collins",
+        "span": [
+            [
+                1471,
+                1482
+            ]
+        ],
+        "description": "British racecar driver",
+        "stance": [
+            {
+                "sequence": "In a mockup shared by Onion CEO Ben Collins, parody ads blared over Infowars\u2019 style-content: \u201cTURN YOUR PISS INTO GOLD,\u201d a particularly funny one read.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.6610442996025085,
+                    0.251394659280777,
+                    0.08756107091903687
+                ]
+            }
+        ]
+    },
+    "295739": {
+        "name": "Johnny Galecki",
+        "span": [
+            [
+                8243,
+                8255
+            ],
+            [
+                8275,
+                8277
+            ],
+            [
+                8346,
+                8349
+            ],
+            [
+                8360,
+                8366
+            ],
+            [
+                8371,
+                8374
+            ],
+            [
+                8693,
+                8699
+            ],
+            [
+                8775,
+                8777
+            ],
+            [
+                8866,
+                8872
+            ],
+            [
+                8932,
+                8934
+            ],
+            [
+                8952,
+                8958
+            ]
+        ],
+        "description": "American actor",
+        "stance": [
+            {
+                "sequence": "While the legal process wound on and William Jones kept blustering on air, Johnny Galecki did the same thing Johnny Galecki does every day: woke up and set to work removing vicious lies about Johnny Galecki dead son.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.9880386590957642,
+                    0.00887138769030571,
+                    0.0030899152625352144
+                ]
+            },
+            {
+                "sequence": "de la Rosaeronique De La Rosa are the parents of Noah, a six-year old boy who was the youngest victim at Sandy Hook.",
+                "labels": [
+                    "neutral toward",
+                    "against",
+                    "in favor of"
+                ],
+                "scores": [
+                    0.8825081586837769,
+                    0.07673709839582443,
+                    0.0407547652721405
+                ]
+            },
+            {
+                "sequence": "Johnny Galecki has been hounded for years with demands to exhume Noah\u2019s body, claims that Johnny Galecki wasn\u2019t really Noah\u2019s father, and accusations that Noah never even existed.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.6613730788230896,
+                    0.24070590734481812,
+                    0.09792108088731766
+                ]
+            },
+            {
+                "sequence": "In response, Johnny Galecki has been involved in an ongoing crusade against the people Johnny Galecki calls \u201choaxers.\u201d",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.47756868600845337,
+                    0.45436614751815796,
+                    0.06806518137454987
+                ]
+            },
+            {
+                "sequence": "Johnny Galecki has successfully sued the co-authors",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.6482294201850891,
+                    0.308001309633255,
+                    0.04376927763223648
+                ]
+            }
+        ]
+    },
+    "21487787": {
+        "name": "de la Rosa",
+        "span": [
+            [
+                8360,
+                8407
+            ],
+            [
+                8495,
+                8502
+            ]
+        ],
+        "description": "family name",
+        "stance": [
+            {
+                "sequence": "de la Rosaeronique De La Rosa are the parents of Noah, a six-year old boy who was the youngest victim at Sandy Hook.",
+                "labels": [
+                    "neutral toward",
+                    "in favor of",
+                    "against"
+                ],
+                "scores": [
+                    0.8318082094192505,
+                    0.12172044813632965,
+                    0.04647136479616165
+                ]
+            },
+            {
+                "sequence": "de la Rosa also faced some of the most vicious and direct harassment from deniers of the shooting, who have claimed that Noah was an actor who has gone on to \u201cdie\u201d in other disasters around the world.",
+                "labels": [
+                    "in favor of",
+                    "neutral toward",
+                    "against"
+                ],
+                "scores": [
+                    0.8070449829101562,
+                    0.1098635122179985,
+                    0.08309145271778107
+                ]
+            }
+        ]
+    }
+}
