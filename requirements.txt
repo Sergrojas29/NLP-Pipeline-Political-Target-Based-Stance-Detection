@@ -1,6 +1,11 @@
 fastcoref
+spacy
+spacy-transformers
 spacy-entity-linker
+transformers
+torch
 flask
 Flask-Cors
 gunicorn
 psycopg2-binary
+pandas

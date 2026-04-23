@@ -10,7 +10,7 @@ import {
 } from 'chart.js';
 import { Bar } from 'react-chartjs-2';
 
-import data from "./assets/example_FOX_opinion.json";
+import data from "./assets/example_Data.json";
 
 
 
