@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Curry Guinn",
+    "type" : "Professor",
+    "date": "Tue Apr 21, 2026 5:32pm",
+    "comment":[
+        "Good job presenting an ambitious project of automatically performing target-specific political stance identification toward particular people.",
+        "You built a real end-to-end pipeline rather than focusing on just one model in isolation. The combination of subject extraction, coreference resolution, stance classification, and visualization is impressive. I also thought the UI was a helpful part of the presentation.",
+        "The main area I would tighten is the results section.",
+        "The qualitative examples are useful.  You show both successes and failures, including cases like entity hallucinations and incorrect linking.",
+        "The presentation would feel stronger with a clearer summary of how well the system performs overall. You mention BASIL as a validation dataset, but I did not come away with a clear quantitative sense of the final performance. Even a small set of summary metrics, or a brief statement of how often subject extraction, coreference, or stance classification worked on a labeled sample would make the results easier to evaluate. "
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Matthew Conover",
+    "type" : "Peer",
+    "date": "Tue Apr 21, 2026 10:08pm",
+    "comment":[
+        "This was a terrific presentation and a well-executed project. It’s clear a lot of time and and craft went into both the code and presentation. It seems like there’s a full-stack application for this, it was mentioned the video about loading data via the API. I suspect it’s available online, would be great to see it if so. A future improvement would be finding the reasons for the hallucinations and eliminating them as much as practicable."
+    ]
+},
+{
+    "id": 3,
+    "name": "Sunidhi Gautam",
+    "type" : "Peer",
+    "date": "Thu Apr 23, 2026 4:34pm",
+    "comment":[
+        "The project idea was interesting and clearly explained, and what I liked most was how it combined entity recognition, coreference, and stance analysis to study political bias in a more targeted way. The dataset choices, technical pipeline, and interface examples made the project feel thoughtful and well developed. One thing that could be improved is adding a little more explanation of how the final bias measurements should be interpreted by a user in practice. For next steps, it would be interesting to expand the system with more articles, more political subjects, or additional comparisons across different news sources."
+    ]
+},
+{
+    "id": 4,
+    "name": "Mitchell Avery",
+    "type" : "Peer",
+    "date": "Thu Apr 23, 2026 7:21pm",
+    "comment":[
+        "REALLY great work!  I like the choice of addressing the limitations of general sentiment analysis and pivoting to political bias, which is a subject I personally find very interesting.  Your presentation was highly technical but still accessible, and I appreciate the way you break down the architecture into distinct phases which made the logic of the pipeline easy to follow.  It could be interesting to see more side by side examples of entity collisions or specific instances where the model struggled to distinguish between multiple subjects, but besides that I truly have no notes.  Well done.",
+        "Clarity of Problem - Excellent job explaining why standard sentiment analysis fails, with examples.",
+        "Dataset Description - Really nice job linking multiple data sets; makes me wish I had spent more time finding good data and data engineering on my project. ",
+        "Methods & Tools  - Above and beyond, very impressive.",
+        "Results & Analysis  -The UI is really fascinating and such a great way to visualize the results (confidence slider is really cool!).  Also spends time covering where the model fails.",
+        "Slide Design  - I like the use flow charts and the overall design of the slides. Some were maybe a little too dense.",
+        "Presentation Skills  - Clear, well-paced and great job explaining the logic behind your project decisions. ",
+        "Challenges & Reflection  - Great reflection on errors and NLP limitations.",
+        "Overall Impression  - Complex and very interesting real-world problem.  The way you approach it in this project is very impressive and inspiring. "
+    ]
+  }
+]
